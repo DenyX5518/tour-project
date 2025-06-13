@@ -9,7 +9,7 @@
 - Ant Design
 - TypeScript
 
-## 📦 Установка
+## 📦 Запуск
 
 ```bash
 git clone https://github.com/DenyX5518/tour-project.git
