@@ -1,0 +1,28 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows: 1fr;
+    justify-items: center;
+    justify-content: center;
+    .card{
+        width: 240px;
+        img{
+            width: 240px;
+            height: 150px;
+        }
+        .content{
+            .title{
+                h4{
+                    margin: 0;
+                    font-weight: 400;
+                }
+            }
+            h3{
+                font-weight: 400;
+            }
+            .btn{
+                width: 100%;
+            }
+        }
+    }
+}

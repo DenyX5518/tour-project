@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Moscow Tour",
+        "county": "Russia",
+        "image": "/public/russia.jpg",
+        "price": 1200,
+        "startDate": "04-11-2025"
+    },
+    {
+        "id": 2,
+        "name": "Berlin Tour",
+        "county": "Germany",
+        "image": "/public/germany.jpg",
+        "price": 1500,
+        "startDate": "02-11-2025"
+    },
+    {
+        "id": 3,
+        "name": "Astana Tour",
+        "county": "Kazakhstan",
+        "image": "/public/kazakhstan.jpg",
+        "price": 1000,
+        "startDate": "10-11-2025"
+    }
+]
